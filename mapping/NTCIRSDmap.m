@@ -1,3 +1,4 @@
+#detectedAI
 function X = NTCIRSDmap(i,mapto)
 %This functions maps the NTC pixels 1-128 into SRCCH format and vice versa
 
