@@ -1,5 +1,5 @@
 function C = loadDRS4xml(filename, pathname)
-%pathname='/Users/glennjocher/Downloads/DRS4/autoTrigger/';
+
 if nargin==0; filename='scintillator.air.coupling.5gsps.xml'; end %for debugging
 fid = fopen([pathname filename]);
 
