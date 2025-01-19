@@ -1,4 +1,4 @@
-function [] = plotNTC(input0,output)
+function [] = plot(input0,output)
 
 i = MTCSRCCH2pixelID(NTCIRSDmap(1:128,'SRCCH'));
 Cdata = output(1).A(i);
