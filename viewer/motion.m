@@ -1,4 +1,4 @@
-function [] = motionNTC()
+function [] = motion()
 ha=gca;
 p=ha.CurrentPoint;  x1=p(1,:);  x2=p(2,:); %mouse pointing vector
 if x1(1)<ha.XLim(1) || x1(1)>ha.XLim(2) || x1(2)<ha.YLim(1) || x1(2)>ha.YLim(2) || isempty(ha.Children); return; end
