@@ -8,11 +8,11 @@ Welcome to the sense detection analysis tools repository! This project is design
 
 ## 📜 Description
 
-The repository available at houses a suite of MATLAB scripts and functions tailored for the analysis of neutron detection data. With these tools, users can process, analyze, and visualize sense detection data, facilitating cutting-edge research in neutron science.
+Welcome to the sense detection analysis tools repository! This project aims to offer researchers and data analysts tools for interpreting and visualizing data collected by the sense detection, an advanced device used for neutron detection and characterization.
 
 ## ⚙️ Requirements
 
-Before diving in, make sure you have the following prerequisites:
+You have the following prerequisites:
 
   ```bash
   
@@ -25,11 +25,11 @@ Before diving in, make sure you have the following prerequisites:
   - Statistics and Machine Learning Toolbox
   - Signal Processing Toolbox
 
-Ensure that all installations and configurations match these requirements to smoothly run the sense detection analysis tools.
 
-## 🏃 Running the Tools
 
-To begin analyzing your data:
+## Tools
+
+
 
 1. Open MATLAB
 2. Execute the command:
@@ -37,7 +37,6 @@ To begin analyzing your data:
    >> sense detectionviewer
    ```
 
-Here is a glimpse of the kind of interface you can expect with our `sense detectionviewer`:
 
 
 
@@ -48,9 +47,9 @@ Here is a glimpse of the kind of interface you can expect with our `sense detect
 
 ## ©️ License
 
-Detected AI is excited to offer two different licensing options to meet your needs:
+Detected AI is excited to offer two different licensing options.
 
-- **AGPL-3.0 License**: Perfect for students and hobbyists, this [OSI-approved](https://opensource.org/license) open-source license encourages collaborative learning and knowledge sharing. Please refer to the
+
 - **Enterprise License**: Ideal for commercial use, this license allows for the integration of Ultralytics software and AI models into commercial products without the open-source requirements of AGPL-3.0. 
 
 
