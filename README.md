@@ -3,12 +3,12 @@
 
 # 🌟 Introduction
 
-Welcome to the NTC analysis tools repository! This project is designed to provide researchers and data analysts with tools to interpret and visualize data from the NTC, a sophisticated device used in neutron detection and characterization.
+Welcome to the sense detection analysis tools repository! This project is designed to provide researchers and data analysts with tools to interpret and visualize data from the sense detection, a sophisticated device used in neutron detection and characterization.
 
 
 ## 📜 Description
 
-The repository available at houses a suite of MATLAB scripts and functions tailored for the analysis of neutron detection data. With these tools, users can process, analyze, and visualize NTC data, facilitating cutting-edge research in neutron science.
+The repository available at houses a suite of MATLAB scripts and functions tailored for the analysis of neutron detection data. With these tools, users can process, analyze, and visualize sense detection data, facilitating cutting-edge research in neutron science.
 
 ## ⚙️ Requirements
 
@@ -25,7 +25,7 @@ Before diving in, make sure you have the following prerequisites:
   - Statistics and Machine Learning Toolbox
   - Signal Processing Toolbox
 
-Ensure that all installations and configurations match these requirements to smoothly run the NTC analysis tools.
+Ensure that all installations and configurations match these requirements to smoothly run the sense detection analysis tools.
 
 ## 🏃 Running the Tools
 
@@ -34,10 +34,10 @@ To begin analyzing your data:
 1. Open MATLAB
 2. Execute the command:
    ```matlab
-   >> NTCviewer
+   >> sense detectionviewer
    ```
 
-Here is a glimpse of the kind of interface you can expect with our `NTCviewer`:
+Here is a glimpse of the kind of interface you can expect with our `sense detectionviewer`:
 
 
 
