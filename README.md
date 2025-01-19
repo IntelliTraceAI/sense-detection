@@ -3,7 +3,7 @@
 
 # 🌟 Introduction
 
-Welcome to the Neutron TimeCube (NTC) analysis tools repository! This project is designed to provide researchers and data analysts with tools to interpret and visualize data from the NTC, a sophisticated device used in neutron detection and characterization.
+Welcome to the NTC analysis tools repository! This project is designed to provide researchers and data analysts with tools to interpret and visualize data from the NTC, a sophisticated device used in neutron detection and characterization.
 
 
 ## 📜 Description
