@@ -48,7 +48,7 @@ Here is a glimpse of the kind of interface you can expect with our `sense detect
 
 ## ©️ License
 
-Ultralytics is excited to offer two different licensing options to meet your needs:
+Detected AI is excited to offer two different licensing options to meet your needs:
 
 - **AGPL-3.0 License**: Perfect for students and hobbyists, this [OSI-approved](https://opensource.org/license) open-source license encourages collaborative learning and knowledge sharing. Please refer to the
 - **Enterprise License**: Ideal for commercial use, this license allows for the integration of Ultralytics software and AI models into commercial products without the open-source requirements of AGPL-3.0. 
