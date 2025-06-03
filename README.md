@@ -47,7 +47,7 @@ You have the following prerequisites:
 
 ## ©️ License
 
-Detected AI is excited to offer two different licensing options.
+IntelliTraceAI is excited to offer two different licensing options.
 
 
 - **Enterprise License**: Ideal for commercial use, this license allows for the integration of Ultralytics software and AI models into commercial products without the open-source requirements of AGPL-3.0. 
